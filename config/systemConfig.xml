@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<systemConfig>
+  <mail>
+    <from>xxxx</from>
+    <to>xxx</to>
+    <smtp>xx</smtp>
+    <port>xxx</port>
+    <user>xxx</user>
+    <passwd>xxx</passwd>
+  </mail>
+  <cordinator>/dev/ttyUSB0</cordinator>
+  <irReceive>COM2</irReceive>
+  <weather>1</weather>
+  <xbee>2.2</xbee>
+</systemConfig>
