@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<links>
+  <link>
+    <sensor>1</sensor>
+    <controller>1</controller>
+    <surveillanceCycle>3600</surveillanceCycle>
+    <maxTempLimitThreshold>30</maxTempLimitThreshold>
+    <minTempLimitThreshold>10</minTempLimitThreshold>
+    <maxHygroLimitThreshold>90</maxHygroLimitThreshold>
+    <minHygroLimitThreshold>20</minHygroLimitThreshold>
+    <latency>60</latency>
+    <maxTempCautionThreshold>28</maxTempCautionThreshold>
+    <minTempCautionThreshold>15</minTempCautionThreshold>
+    <maxHygroCautionThreshold>80</maxHygroCautionThreshold>
+    <minHygroCautionThreshold>25</minHygroCautionThreshold>
+    <isSend>1</isSend>
+  </link>
+</links>

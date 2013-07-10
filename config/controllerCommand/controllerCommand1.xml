@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<controller id="1">
+  <controllerCommand id="1">
+    <command id="1" />
+  </controllerCommand>
+  <controllerCommand id="2">
+    <command id="2" />
+  </controllerCommand>
+</controller>
